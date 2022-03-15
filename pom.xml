@@ -1,5 +1,5 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.itstyle.seckill</groupId>
   <artifactId>spring-boot-seckill</artifactId>
@@ -145,7 +145,7 @@
       <dependency>
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
-          <version>4.1.23.Final</version>
+          <version>4.1.59.Final</version>
       </dependency>
       <!--beanstalkd消息队列-->
       <dependency>
